@@ -1,0 +1,7 @@
+{
+  "name": "Linkora- AI Bio Page Builder",
+  "description": "Linkora is a powerful bio link platform designed for creators, entrepreneurs, and digital brands.\nIt allows you to create a personalized, mobile-optimized landing page where you can showcase all your important links in one place.                                                                                                                                                                                                                               \n With Linkora, you can:\n* Add multiple links\n* Customize your profile\n* Share one smart link in your bio\n* Control access with secure plans\n* Build a professional online presence\nLinkora helps you turn your single bio link into a powerful digital hub.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
